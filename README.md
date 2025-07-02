@@ -62,6 +62,10 @@ Git, JIRA, Agile, Kibana, VS Code, SQLAlchemy, PyTest
 
 ---
 
+## 👥 Conferences
+Biennale Architettura 2025
+Smart Cities Connect 2022
+
 ## 📈 GitHub Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nami-jain&theme=dark&background=000000)](https://git.io/streak-stats)  
