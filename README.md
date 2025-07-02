@@ -63,8 +63,11 @@ Git, JIRA, Agile, Kibana, VS Code, SQLAlchemy, PyTest
 ---
 
 ## 👥 Conferences
-Biennale Architettura 2025
-Smart Cities Connect 2022
+<ul>
+  <li> Biennale Architettura 2025
+  <li> Smart Cities Connect 2022
+</ul>
+
 
 ## 📈 GitHub Stats
 
